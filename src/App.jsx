@@ -1,12 +1,8 @@
-import React from 'react'
-import "./APP.css"
+import React from "react";
+import "./APP.css";
+import Todo from "./Components/Todo/Todo";
 
-function App() {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+const App = () => <Todo />;
 
-export default App
+
+export default App;
