@@ -1,7 +1,7 @@
 import React from 'react'
-import "./APP.css"
+import "./Todo.css"
 
-function App() {
+function Todo() {
   return (
     <div>
       
@@ -9,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default Todo

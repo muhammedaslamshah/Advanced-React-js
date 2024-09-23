@@ -1,7 +1,7 @@
 import React from 'react'
-import "./APP.css"
+import "./List.css"
 
-function App() {
+function List() {
   return (
     <div>
       
@@ -9,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default List

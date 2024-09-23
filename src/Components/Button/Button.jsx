@@ -1,7 +1,7 @@
 import React from 'react'
-import "./APP.css"
+import "./Button.css"
 
-function App() {
+function Button() {
   return (
     <div>
       
@@ -9,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default Button
